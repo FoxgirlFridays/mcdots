@@ -1,0 +1,715 @@
+2020-01-01 14:19:45.639 (0x7fffa100cb20) Debug: New PolkitAgentListener  0x5652eea4d6a0
+2020-01-01 14:19:45.639 (0x7fffa100cb20) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffa100cb30) for  0x5652eea4d6a0
+2020-01-01 14:19:45.798 (0x7ffe059952d0) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-01 14:19:45.808 (0x7ffc7cf40b80) Debug: ()
+2020-01-01 14:19:45.830 (0x7ffe059952d0) Debug: Inhibit got: 26
+2020-01-01 14:19:45.874 (0x7fffb6032f80) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-01 14:19:46.015 (0x7ffe059952d0) Debug: Starting idlenesswatcher
+2020-01-01 14:19:46.181 (0x7ffc7cf40b80) Debug: WinIdChange 1400008 handle QWidgetWindow(0x555c9a6a57d0, name="LXQtPanel panel1Window") QScreen(0x555c9a514030, name="eDP1")
+2020-01-01 14:19:46.189 (0x7ffc7cf40b80) Warning: Another systray is running
+2020-01-01 14:19:47.952 (0x7fff61a35ce0) Warning: QSystemTrayIcon::setVisible: No Icon set
+2020-01-01 14:19:49.311 (0x7ffc7cf40b80) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-01 14:20:28.890 (0x7ffc7cf40b80) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 767, resource id: 48234499, major code: 18 (ChangeProperty), minor code: 0
+2020-01-01 14:21:06.656 (0x7fffb6032f80) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-01 14:21:29.604 (0x7ffdaec2b3e0) Debug: New PolkitAgentListener  0x55cc21f2b6a0
+2020-01-01 14:21:29.607 (0x7ffdaec2b3e0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdaec2b3f0) for  0x55cc21f2b6a0
+2020-01-01 14:21:29.633 (0x7ffc7b722820) Warning: QSystemTrayIcon::setVisible: No Icon set
+2020-01-01 14:21:29.663 (0x7ffd0fa8a8e0) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-01 14:21:29.669 (0x7ffd0fa8a8e0) Debug: Inhibit got: 26
+2020-01-01 14:21:29.670 (0x7ffd0fa8a8e0) Debug: Starting idlenesswatcher
+2020-01-01 14:21:29.700 (0x7ffd57dd4b50) Debug: ()
+2020-01-01 14:21:29.765 (0x7ffd57dd4b50) Debug: WinIdChange 1a00008 handle QWidgetWindow(0x556bf0396210, name="LXQtPanel panel1Window") QScreen(0x556bf02a7210, name="eDP1")
+2020-01-01 14:21:29.770 (0x7ffd57dd4b50) Warning: Another systray is running
+2020-01-01 14:21:29.820 (0x7ffdf42ac870) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-01 14:21:30.871 (0x7ffd57dd4b50) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-01 14:21:36.567 (0x7ffd57dd4b50) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:21:36.567 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.567 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.568 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.568 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.568 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.583 (0x7ffd57dd4b50) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:21:36.583 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.583 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.583 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.583 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.583 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.592 (0x7ffd57dd4b50) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:21:36.592 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.592 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.592 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.592 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:36.592 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:53.770 (0x7ffd57dd4b50) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:21:53.770 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:53.770 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:53.770 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:53.770 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:21:53.770 (0x7ffd57dd4b50) Warning: link #g5692 is undefined!
+2020-01-01 14:23:36.429 (0x7ffc862b5800) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-01 14:23:45.648 (0x7ffc61bb2a00) Debug: New PolkitAgentListener  0x55afcbaea8a0
+2020-01-01 14:23:45.649 (0x7ffc61bb2a00) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc61bb2a10) for  0x55afcbaea8a0
+2020-01-01 14:23:45.724 (0x7ffebb66bea0) Debug: ()
+2020-01-01 14:23:45.788 (0x7ffebb66bea0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x558b5e789820, name="LXQtPanel panel1Window") QScreen(0x558b5e5f5030, name="eDP1")
+2020-01-01 14:23:45.794 (0x7ffebb66bea0) Debug: Systray started
+2020-01-01 14:23:45.848 (0x7ffe831879c0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-01 14:23:45.900 (0x7ffcdf269030) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-01 14:23:45.907 (0x7ffcdf269030) Debug: Inhibit got: 27
+2020-01-01 14:23:45.907 (0x7ffcdf269030) Debug: Starting idlenesswatcher
+2020-01-01 14:23:45.910 (0x7ffebb66bea0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.UnknownProperty", "Property org.kde.StatusNotifierItem.IconThemePath was not found in object /StatusNotifierItem")
+2020-01-01 14:23:46.140 (0x7ffebb66bea0) Warning:     * Error image is NULL
+2020-01-01 14:23:46.888 (0x7ffebb66bea0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-01 14:23:50.562 (0x7fffe612c000) Warning: QSystemTrayIcon::setVisible: No Icon set
+2020-01-01 14:23:50.566 (0x7ffebb66bea0) Warning:     * Error image is NULL
+2020-01-01 14:24:16.742 (0x7ffebb66bea0) Warning:     * Error image is NULL
+2020-01-01 14:25:32.939 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:25:32.939 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.939 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.939 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.939 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.939 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.946 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:25:32.946 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.946 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.946 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.946 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.946 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.952 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:25:32.952 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.952 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.952 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.952 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:25:32.952 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:27:29.016 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:27:29.016 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:27:29.016 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:27:29.016 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:27:29.016 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:27:29.016 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:29:59.542 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:29:59.542 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:29:59.542 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:29:59.542 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:29:59.542 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:29:59.542 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:30:00.659 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:30:00.659 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:30:00.659 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:30:00.659 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:30:00.659 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:30:00.659 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:33:54.902 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:33:54.902 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:33:54.902 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:33:54.902 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:33:54.903 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:33:54.903 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:34:31.429 (0x7ffebb66bea0) Warning:     * Error image is NULL
+2020-01-01 14:35:28.629 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-01 14:37:25.827 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:37:25.827 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:37:25.827 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:37:25.827 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:37:25.827 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:37:25.828 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:37:29.674 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 98.9494 actionTime: QTime(Invalid)
+2020-01-01 14:38:40.876 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:38:40.876 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:38:40.876 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:38:40.877 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:38:40.877 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:38:40.877 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:39:29.672 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 97.9561 actionTime: QTime(Invalid)
+2020-01-01 14:40:13.549 (0x7ffebb66bea0) Warning:     * Error image is NULL
+2020-01-01 14:42:09.352 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-01 14:42:09.353 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:42:09.353 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:42:09.353 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:42:09.353 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:42:09.353 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-01 14:43:29.598 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 96.9628 actionTime: QTime(Invalid)
+2020-01-01 14:45:29.572 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 95.9503 actionTime: QTime(Invalid)
+2020-01-01 14:47:29.666 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 94.957 actionTime: QTime(Invalid)
+2020-01-01 14:51:29.594 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 93.9637 actionTime: QTime(Invalid)
+2020-01-01 14:53:29.663 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 91.958 actionTime: QTime(Invalid)
+2020-01-01 14:55:29.694 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 90.9647 actionTime: QTime(Invalid)
+2020-01-01 14:57:29.672 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 89.9522 actionTime: QTime(Invalid)
+2020-01-01 15:01:29.666 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 88.9589 actionTime: QTime(Invalid)
+2020-01-01 15:03:29.661 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 87.9656 actionTime: QTime(Invalid)
+2020-01-01 15:05:29.678 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 86.9532 actionTime: QTime(Invalid)
+2020-01-01 15:07:29.664 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 85.9599 actionTime: QTime(Invalid)
+2020-01-01 15:09:29.582 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 84.9666 actionTime: QTime(Invalid)
+2020-01-01 15:13:29.666 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 83.9542 actionTime: QTime(Invalid)
+2020-01-01 15:17:29.670 (0x7ffcdf269030) Debug: BatteryChanged discharging: true chargeLevel: 82.9608 actionTime: QTime(Invalid)
+2020-01-01 15:17:57.438 (0x7ffcdf269030) Debug: BatteryChanged discharging: false chargeLevel: 82.9608 actionTime: QTime(Invalid)
+2020-01-02 11:21:36.844 (0x7ffcdf269030) Warning: UdevQt: unhandled device action "unbind"
+2020-01-02 11:21:36.848 (0x7ffcdf269030) Warning: UdevQt: unhandled device action "unbind"
+2020-01-02 11:21:36.877 (0x7ffcdf269030) Warning: UdevQt: unhandled device action "bind"
+2020-01-02 11:21:36.877 (0x7ffcdf269030) Warning: UdevQt: unhandled device action "bind"
+2020-01-02 11:21:37.012 (0x7ffcdf269030) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-02 11:21:37.012 (0x7ffcdf269030) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-02 11:21:37.125 (0x7fffe612c000) Debug: Oooook! Expecting instance of notification, got: 0
+2020-01-02 11:21:41.323 (0x7ffebb66bea0) Warning:     * Error image is NULL
+2020-01-02 11:21:41.324 (0x7ffebb66bea0) Warning:     * Error image is NULL
+2020-01-02 11:21:41.325 (0x7ffebb66bea0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-02 11:21:41.326 (0x7ffebb66bea0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-02 11:21:41.326 (0x7ffebb66bea0) Warning: UdevQt: unhandled device action "bind"
+2020-01-02 11:21:41.327 (0x7ffebb66bea0) Warning: UdevQt: unhandled device action "bind"
+2020-01-02 11:21:48.529 (0x7fffe612c000) Debug: Oooook! Expecting instance of notification, got: 0
+2020-01-02 11:30:26.518 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:30:26.518 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:30:26.518 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:30:26.518 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:30:26.518 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:30:26.518 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:32:11.906 (0x7ffebb66bea0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:32:11.906 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:32:11.906 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:32:11.907 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:32:11.907 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:32:11.907 (0x7ffebb66bea0) Warning: link #g5692 is undefined!
+2020-01-02 11:33:14.538 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:33:14.607 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:33:14.861 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:33:15.996 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:33:16.039 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:33:16.103 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:33:16.378 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:33:16.860 (0x7ffe14358e90) Warning: Failed to compute left/right minimum bearings for "mtx"
+2020-01-02 11:35:04.198 (0x7ffe831879c0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-02 11:35:12.470 (0x7ffee401df60) Warning: The X11 connection broke (error 1). Did the X11 server die?
+2020-01-02 11:35:17.941 (0x7ffcd18cef20) Debug: New PolkitAgentListener  0x55cdf34d76a0
+2020-01-02 11:35:17.941 (0x7ffcd18cef20) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffcd18cef30) for  0x55cdf34d76a0
+2020-01-02 11:35:18.031 (0x7ffee2632250) Debug: ()
+2020-01-02 11:35:18.079 (0x7ffc642a9c40) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-02 11:35:18.102 (0x7ffee2632250) Debug: WinIdChange 1000008 handle QWidgetWindow(0x56515e4bd670, name="LXQtPanel panel1Window") QScreen(0x56515e3cd1b0, name="eDP1")
+2020-01-02 11:35:18.108 (0x7ffee2632250) Debug: Systray started
+2020-01-02 11:35:18.217 (0x7ffc2ca9c190) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-02 11:35:18.222 (0x7ffc2ca9c190) Debug: Inhibit got: 27
+2020-01-02 11:35:18.222 (0x7ffc2ca9c190) Debug: Starting idlenesswatcher
+2020-01-02 11:35:18.224 (0x7ffee2632250) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.UnknownProperty", "Property org.kde.StatusNotifierItem.IconThemePath was not found in object /StatusNotifierItem")
+2020-01-02 11:35:19.182 (0x7ffee2632250) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-02 11:35:22.698 (0x7ffcdb352550) Warning: QSystemTrayIcon::setVisible: No Icon set
+2020-01-02 11:35:24.062 (0x7ffee2632250) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:35:24.062 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.062 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.062 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.062 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.062 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.071 (0x7ffee2632250) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:35:24.071 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.071 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.071 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.072 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.072 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.078 (0x7ffee2632250) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:35:24.078 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.078 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.079 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.079 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:35:24.079 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:41:32.177 (0x7ffee2632250) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:41:32.177 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:41:32.177 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:41:32.177 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:41:32.177 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:41:32.177 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:54:50.905 (0x7ffee2632250) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:54:50.905 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:54:50.905 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:54:50.905 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:54:50.905 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:54:50.905 (0x7ffee2632250) Warning: link #g5692 is undefined!
+2020-01-02 11:57:57.598 (0x7ffee2632250) Warning: Error handler 152 BadDamage (invalid Damage parameter)
+2020-01-02 11:58:02.825 (0x7ffc17d30d80) Debug: New PolkitAgentListener  0x5559d3bc96a0
+2020-01-02 11:58:02.825 (0x7ffc17d30d80) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc17d30d90) for  0x5559d3bc96a0
+2020-01-02 11:58:02.902 (0x7fff76af9cc0) Debug: ()
+2020-01-02 11:58:02.967 (0x7fff76af9cc0) Debug: WinIdChange e00008 handle QWidgetWindow(0x563389558e50, name="LXQtPanel panel1Window") QScreen(0x5633893c1210, name="eDP1")
+2020-01-02 11:58:02.974 (0x7fff76af9cc0) Debug: Systray started
+2020-01-02 11:58:02.994 (0x7ffea366b770) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-02 11:58:03.076 (0x7fff12c5fe40) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-02 11:58:03.082 (0x7fff12c5fe40) Debug: Inhibit got: 27
+2020-01-02 11:58:03.082 (0x7fff12c5fe40) Debug: Starting idlenesswatcher
+2020-01-02 11:58:03.084 (0x7fff76af9cc0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.UnknownProperty", "Property org.kde.StatusNotifierItem.IconThemePath was not found in object /StatusNotifierItem")
+2020-01-02 11:58:03.298 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:03.300 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:03.304 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:03.307 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:04.043 (0x7fff76af9cc0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-02 11:58:07.581 (0x7ffe4e20ccd0) Warning: QSystemTrayIcon::setVisible: No Icon set
+2020-01-02 11:58:07.585 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:21.140 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:21.143 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:21.149 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:21.152 (0x7fff76af9cc0) Warning:     * Error image is NULL
+2020-01-02 11:58:45.566 (0x7ffe4e20ccd0) Warning: QSystemTrayIcon::setVisible: No Icon set
+2020-01-02 11:59:19.501 (0x7fff76af9cc0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 6821, resource id: 14680453, major code: 18 (ChangeProperty), minor code: 0
+2020-01-02 11:59:42.163 (0x7fff76af9cc0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:59:42.163 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.163 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.163 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.163 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.163 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.168 (0x7fff76af9cc0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:59:42.168 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.168 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.168 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.168 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.168 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.174 (0x7fff76af9cc0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 11:59:42.174 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.174 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.174 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.174 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 11:59:42.174 (0x7fff76af9cc0) Warning: link #g5692 is undefined!
+2020-01-02 12:02:17.071 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:02:28.820 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:02:56.153 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:12.556 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:12.958 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:14.328 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:14.514 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:14.720 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:14.886 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:15.072 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:15.268 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:15.454 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:15.611 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:15.768 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:15.925 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:03:16.111 (0x7fff76af9cc0) Warning: "Cannot load library /usr/lib/lxqt-panel/libnetworkmonitor.so: (libstatgrab.so.10: cannot open shared object file: No such file or directory)"
+2020-01-02 12:50:31.796 (0x7fff6d3bebf0) Debug: New PolkitAgentListener  0x55eaa2e066a0
+2020-01-02 12:50:31.796 (0x7fff6d3bebf0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff6d3bec00) for  0x55eaa2e066a0
+2020-01-02 12:50:31.908 (0x7ffdbd9e7be0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x5652878102a0, name="LXQtPanel panel1Window") QScreen(0x56528771b210, name="eDP1")
+2020-01-02 12:50:31.915 (0x7ffdbd9e7be0) Debug: Systray started
+2020-01-02 12:50:31.967 (0x7ffeb5691930) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-02 12:50:31.982 (0x7ffd94776ee0) Debug: BatteryChanged discharging: false chargeLevel: 99.9427 actionTime: QTime(Invalid)
+2020-01-02 12:50:31.989 (0x7ffd94776ee0) Debug: Inhibit got: 26
+2020-01-02 12:50:31.990 (0x7ffd94776ee0) Debug: Starting idlenesswatcher
+2020-01-02 12:50:32.217 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-02 12:50:33.033 (0x7ffdbd9e7be0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-02 12:50:36.571 (0x7ffec828f5a0) Warning: QSystemTrayIcon::setVisible: No Icon set
+2020-01-02 12:50:36.581 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-02 12:50:37.631 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 12:50:37.631 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.631 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.632 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.632 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.632 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.639 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 12:50:37.639 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.639 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.639 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.639 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.639 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.645 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 12:50:37.645 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.646 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.646 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.646 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:37.646 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:38.370 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 12:50:38.370 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:38.370 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:38.371 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:38.371 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:50:38.371 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:51:04.688 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-02 12:53:13.389 (0x7ffdbd9e7be0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4142, resource id: 35651587, major code: 18 (ChangeProperty), minor code: 0
+2020-01-02 12:53:59.718 (0x7ffdbd9e7be0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 6206, resource id: 18874696, major code: 18 (ChangeProperty), minor code: 0
+2020-01-02 12:54:06.139 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 12:54:06.139 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:54:06.144 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:54:06.144 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:54:06.144 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:54:06.144 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 12:58:16.740 (0x7ffdbd9e7be0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12748, resource id: 39845891, major code: 18 (ChangeProperty), minor code: 0
+2020-01-02 13:11:27.591 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 13:11:27.592 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:11:27.592 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:11:27.592 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:11:27.592 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:11:27.592 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:13:49.792 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 13:13:49.792 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:13:49.792 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:13:49.792 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:13:49.792 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:13:49.792 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:16:06.841 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 13:16:06.841 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:16:06.841 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:16:06.841 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:16:06.841 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:16:06.841 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:19:28.339 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-02 13:19:28.339 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:19:28.339 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:19:28.339 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:19:28.339 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-02 13:19:28.340 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-03 04:46:29.854 (0x7ffd94776ee0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-03 04:46:29.856 (0x7ffd94776ee0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-03 04:46:29.881 (0x7ffd94776ee0) Warning: UdevQt: unhandled device action "bind"
+2020-01-03 04:46:29.881 (0x7ffd94776ee0) Warning: UdevQt: unhandled device action "bind"
+2020-01-03 04:53:48.482 (0x7ffdbd9e7be0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 04:53:48.482 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-03 04:53:48.482 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-03 04:53:48.482 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-03 04:53:48.482 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-03 04:53:48.482 (0x7ffdbd9e7be0) Warning: link #g5692 is undefined!
+2020-01-03 04:56:09.104 (0x7ffdbd9e7be0) Debug: Systray started
+2020-01-03 05:07:50.781 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:08:23.876 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:10.100 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:11.424 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:12.133 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:15.124 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:15.148 (0x7ffecac057c0) Debug: Found output: "eDP1"
+2020-01-03 05:10:15.149 (0x7ffecac057c0) Debug: Output: "eDP1" added
+2020-01-03 05:10:15.149 (0x7ffecac057c0) Debug: Found output: "HDMI1"
+2020-01-03 05:10:15.149 (0x7ffecac057c0) Debug: Output is not connected
+2020-01-03 05:10:15.149 (0x7ffecac057c0) Debug: Found output: "VIRTUAL1"
+2020-01-03 05:10:15.149 (0x7ffecac057c0) Debug: Output is not connected
+2020-01-03 05:10:15.442 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:16.872 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:18.177 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:18.304 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:18.774 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:19.920 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:20.480 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:21.483 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:21.944 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:25.618 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:25.943 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:30.604 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:30.914 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:31.361 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:33.022 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:35.269 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:35.577 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:36.469 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:37.023 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:39.815 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:40.177 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:42.092 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:42.580 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:43.500 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:43.842 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:44.393 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:44.888 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:45.454 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:45.966 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:46.282 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:47.280 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:47.754 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:48.397 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:49.127 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:49.509 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:49.672 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:52.169 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:52.206 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:53.205 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:53.279 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:53.702 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:53.826 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:10:54.377 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:01.289 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:01.592 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:02.629 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:02.963 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:07.080 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:07.462 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:08.501 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:08.824 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:11.684 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:11.917 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:11:11.960 (0x7ffdbd9e7be0) Warning:     * Error image is NULL
+2020-01-03 05:17:39.176 (0x7ffdbd9e7be0) Warning: Error handler 152 BadDamage (invalid Damage parameter)
+2020-01-03 05:18:36.755 (0x7ffc0b303d70) Debug: New PolkitAgentListener  0x56069a9f66a0
+2020-01-03 05:18:36.756 (0x7ffc0b303d70) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc0b303d80) for  0x56069a9f66a0
+2020-01-03 05:18:37.028 (0x7ffe10440600) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:18:37.412 (0x7ffc52f64010) Debug: WinIdChange 1200008 handle QWidgetWindow(0x5642d6adcb00, name="LXQtPanel panel1Window") QScreen(0x5642d687d1e0, name="eDP1")
+2020-01-03 05:18:37.424 (0x7ffc52f64010) Debug: Systray started
+2020-01-03 05:18:37.491 (0x7ffc022a58d0) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 05:18:37.515 (0x7ffc022a58d0) Debug: Inhibit got: 27
+2020-01-03 05:18:37.515 (0x7ffc022a58d0) Debug: Starting idlenesswatcher
+2020-01-03 05:18:38.535 (0x7ffc52f64010) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:18:44.198 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:18:44.198 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.198 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.198 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.198 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.198 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.204 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:18:44.205 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.205 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.205 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.205 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.205 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.211 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:18:44.211 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.211 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.211 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.211 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:44.211 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:45.403 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:18:45.403 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:45.403 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:45.403 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:45.403 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:45.403 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:18:50.469 (0x7fffbba76f00) Debug: add "us" ""
+2020-01-03 05:18:50.542 (0x7fffbba76f00) Debug: Detected "ETPS/2 Elantech Touchpad" on "/dev/input/event8"
+2020-01-03 05:20:43.472 (0x7ffc52f64010) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 9803, resource id: 37748739, major code: 18 (ChangeProperty), minor code: 0
+2020-01-03 05:21:05.051 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:21:05.051 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:21:05.051 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:21:05.051 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:21:05.051 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:21:05.051 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:21:48.372 (0x7ffc52f64010) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 05:28:10.552 (0x7ffc52f64010) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 28391, resource id: 48234503, major code: 18 (ChangeProperty), minor code: 0
+2020-01-03 05:28:12.054 (0x7ffc52f64010) Debug: execAction "/home/kiruthecrusader/Desktop/termite.desktop"
+2020-01-03 05:28:13.879 (0x7ffc52f64010) Debug: execAction "/home/kiruthecrusader/Desktop/termite.desktop"
+2020-01-03 05:28:16.009 (0x7ffc52f64010) Debug: execAction "/home/kiruthecrusader/Desktop/termite.desktop"
+2020-01-03 05:28:18.432 (0x7ffc52f64010) Debug: execAction "/home/kiruthecrusader/Desktop/termite.desktop"
+2020-01-03 05:28:20.995 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:28:20.995 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:28:20.995 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:28:20.995 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:28:20.995 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:28:20.995 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:29:58.248 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:29:58.248 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:29:58.248 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:29:58.248 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:29:58.248 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:29:58.248 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:31:00.091 (0x7ffc52f64010) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 05:34:53.969 (0x7ffc52f64010) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 05:35:27.270 (0x7ffc52f64010) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:35:27.270 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:35:27.270 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:35:27.270 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:35:27.270 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:35:27.270 (0x7ffc52f64010) Warning: link #g5692 is undefined!
+2020-01-03 05:37:28.991 (0x7ffd2983aa90) Debug: New PolkitAgentListener  0x562bfdb49780
+2020-01-03 05:37:28.991 (0x7ffd2983aa90) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd2983aaa0) for  0x562bfdb49780
+2020-01-03 05:37:29.050 (0x7fff51fbd6a0) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 05:37:29.108 (0x7fff51fbd6a0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55bebc828950, name="LXQtPanel panel1Window") QScreen(0x55bebc79a1e0, name="eDP1")
+2020-01-03 05:37:29.120 (0x7fff51fbd6a0) Debug: Systray started
+2020-01-03 05:37:29.233 (0x7ffd9016e140) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 05:37:29.246 (0x7ffde7850eb0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:37:29.257 (0x7ffd9016e140) Debug: Inhibit got: 26
+2020-01-03 05:37:29.258 (0x7ffd9016e140) Debug: Starting idlenesswatcher
+2020-01-03 05:37:29.497 (0x7fff51fbd6a0) Warning:     * Error image is NULL
+2020-01-03 05:37:30.242 (0x7fff51fbd6a0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:37:47.581 (0x7fff51fbd6a0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1788, resource id: 12582935, major code: 18 (ChangeProperty), minor code: 0
+2020-01-03 05:38:03.138 (0x7fff51fbd6a0) Warning:     * Error image is NULL
+2020-01-03 05:38:06.352 (0x7fff51fbd6a0) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 05:41:48.691 (0x7fff51fbd6a0) Warning: Error handler 152 BadDamage (invalid Damage parameter)
+2020-01-03 05:41:52.789 (0x7fffd4994d50) Debug: New PolkitAgentListener  0x55b143e764a0
+2020-01-03 05:41:52.789 (0x7fffd4994d50) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffd4994d60) for  0x55b143e764a0
+2020-01-03 05:41:52.848 (0x7ffcbe4b8550) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 05:41:52.910 (0x7ffcbe4b8550) Debug: WinIdChange 1200008 handle QWidgetWindow(0x556f2803f3a0, name="LXQtPanel panel1Window") QScreen(0x556f27e12080, name="eDP1")
+2020-01-03 05:41:52.920 (0x7ffcbe4b8550) Debug: Systray started
+2020-01-03 05:41:52.933 (0x7ffc224f1870) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:41:52.997 (0x7fff9ed18800) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 05:41:53.007 (0x7fff9ed18800) Debug: Inhibit got: 26
+2020-01-03 05:41:53.009 (0x7fff9ed18800) Debug: Starting idlenesswatcher
+2020-01-03 05:41:53.296 (0x7ffcbe4b8550) Warning:     * Error image is NULL
+2020-01-03 05:41:53.307 (0x7ffcbe4b8550) Warning:     * Error image is NULL
+2020-01-03 05:41:53.321 (0x7ffcbe4b8550) Warning:     * Error image is NULL
+2020-01-03 05:41:54.017 (0x7ffcbe4b8550) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:42:01.134 (0x7ffcbe4b8550) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 05:42:26.915 (0x7ffcbe4b8550) Warning:     * Error image is NULL
+2020-01-03 05:45:58.554 (0x7ffcbe4b8550) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:45:58.554 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.555 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.555 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.555 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.555 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.561 (0x7ffcbe4b8550) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:45:58.561 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.561 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.561 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.561 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.561 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.566 (0x7ffcbe4b8550) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 05:45:58.567 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.567 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.567 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.567 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:45:58.567 (0x7ffcbe4b8550) Warning: link #g5692 is undefined!
+2020-01-03 05:46:05.183 (0x7ffdbc9a0aa0) Debug: New PolkitAgentListener  0x55b9f22a84a0
+2020-01-03 05:46:05.183 (0x7ffdbc9a0aa0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdbc9a0ab0) for  0x55b9f22a84a0
+2020-01-03 05:46:05.235 (0x7ffd876ec6a0) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 05:46:05.281 (0x7ffd876ec6a0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x5634abecb1d0, name="LXQtPanel panel1Window") QScreen(0x5634abd36030, name="eDP1")
+2020-01-03 05:46:05.287 (0x7ffd876ec6a0) Debug: Systray started
+2020-01-03 05:46:05.345 (0x7ffd811e3f70) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:46:05.358 (0x7ffefeca98d0) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 05:46:05.365 (0x7ffefeca98d0) Debug: Inhibit got: 26
+2020-01-03 05:46:05.365 (0x7ffefeca98d0) Debug: Starting idlenesswatcher
+2020-01-03 05:46:05.609 (0x7ffd876ec6a0) Warning:     * Error image is NULL
+2020-01-03 05:46:06.299 (0x7ffd876ec6a0) Warning:     * Error image is NULL
+2020-01-03 05:46:06.357 (0x7ffd876ec6a0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:46:38.627 (0x7ffd876ec6a0) Warning:     * Error image is NULL
+2020-01-03 05:46:51.174 (0x7ffde314a7f0) Debug: New PolkitAgentListener  0x563ab02d4ca0
+2020-01-03 05:46:51.174 (0x7ffde314a7f0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffde314a800) for  0x563ab02d4ca0
+2020-01-03 05:46:51.215 (0x7ffe6ba98e50) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 05:46:51.272 (0x7ffe6ba98e50) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55c20f9220b0, name="LXQtPanel panel1Window") QScreen(0x55c20f7be1d0, name="eDP1")
+2020-01-03 05:46:51.279 (0x7ffe6ba98e50) Debug: Systray started
+2020-01-03 05:46:51.298 (0x7ffd0fb38840) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:46:51.388 (0x7ffd02ca7330) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 05:46:51.408 (0x7ffd02ca7330) Debug: Inhibit got: 26
+2020-01-03 05:46:51.409 (0x7ffd02ca7330) Debug: Starting idlenesswatcher
+2020-01-03 05:46:51.664 (0x7ffe6ba98e50) Warning:     * Error image is NULL
+2020-01-03 05:46:52.408 (0x7ffe6ba98e50) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:47:24.911 (0x7ffe6ba98e50) Warning:     * Error image is NULL
+2020-01-03 05:47:50.703 (0x7ffd2f8e7d80) Debug: New PolkitAgentListener  0x5626da7ff8a0
+2020-01-03 05:47:50.703 (0x7ffd2f8e7d80) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd2f8e7d90) for  0x5626da7ff8a0
+2020-01-03 05:47:50.752 (0x7fff6a0bd330) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 05:47:50.810 (0x7fff6a0bd330) Debug: WinIdChange 1200008 handle QWidgetWindow(0x5605f1885ee0, name="LXQtPanel panel1Window") QScreen(0x5605f17211d0, name="eDP1")
+2020-01-03 05:47:50.815 (0x7fff6a0bd330) Debug: Systray started
+2020-01-03 05:47:50.914 (0x7ffc16f75900) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:47:50.929 (0x7ffe44cf04b0) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 05:47:50.946 (0x7ffe44cf04b0) Debug: Inhibit got: 26
+2020-01-03 05:47:50.948 (0x7ffe44cf04b0) Debug: Starting idlenesswatcher
+2020-01-03 05:47:51.180 (0x7fff6a0bd330) Warning:     * Error image is NULL
+2020-01-03 05:47:51.189 (0x7fff6a0bd330) Warning:     * Error image is NULL
+2020-01-03 05:47:51.905 (0x7fff6a0bd330) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 05:53:04.654 (0x7fff6a0bd330) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 06:00:33.300 (0x7fff7aac3760) Debug: New PolkitAgentListener  0x55aafc0228a0
+2020-01-03 06:00:33.300 (0x7fff7aac3760) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff7aac3770) for  0x55aafc0228a0
+2020-01-03 06:00:33.353 (0x7ffcbee29b30) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 06:00:33.415 (0x7ffcbee29b30) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55a8a15510a0, name="LXQtPanel panel1Window") QScreen(0x55a8a13f51e0, name="eDP1")
+2020-01-03 06:00:33.422 (0x7ffcbee29b30) Debug: Systray started
+2020-01-03 06:00:33.500 (0x7ffc78353520) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 06:00:33.504 (0x7ffeaaa5b3a0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:00:33.506 (0x7ffc78353520) Debug: Inhibit got: 26
+2020-01-03 06:00:33.506 (0x7ffc78353520) Debug: Starting idlenesswatcher
+2020-01-03 06:00:33.732 (0x7ffcbee29b30) Warning:     * Error image is NULL
+2020-01-03 06:00:34.536 (0x7ffcbee29b30) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:01:03.730 (0x7ffcbee29b30) Warning:     * Error image is NULL
+2020-01-03 06:01:45.479 (0x7ffcbee29b30) Warning:     * Error image is NULL
+2020-01-03 06:15:52.147 (0x7ffcbee29b30) Warning:     * Error image is NULL
+2020-01-03 06:15:52.153 (0x7ffcbee29b30) Warning:     * Error image is NULL
+2020-01-03 06:16:46.393 (0x7ffccc1850f0) Debug: New PolkitAgentListener  0x55b51291b8a0
+2020-01-03 06:16:46.393 (0x7ffccc1850f0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffccc185100) for  0x55b51291b8a0
+2020-01-03 06:16:46.445 (0x7ffe73df17e0) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 06:16:46.568 (0x7ffff6f04390) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:16:47.010 (0x7ffe73df17e0) Debug: WinIdChange 1a00008 handle QWidgetWindow(0x564015dd4cb0, name="LXQtPanel panel1Window") QScreen(0x564015c6f0d0, name="eDP1")
+2020-01-03 06:16:47.020 (0x7ffe73df17e0) Debug: Systray started
+2020-01-03 06:16:47.079 (0x7ffe4723a7f0) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 06:16:47.084 (0x7ffe4723a7f0) Debug: Inhibit got: 27
+2020-01-03 06:16:47.085 (0x7ffe4723a7f0) Debug: Starting idlenesswatcher
+2020-01-03 06:16:48.089 (0x7ffe73df17e0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:18:56.167 (0x7ffe73df17e0) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 06:23:35.461 (0x7ffe73df17e0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 06:23:35.461 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.466 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.466 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.466 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.466 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.476 (0x7ffe73df17e0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 06:23:35.476 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.476 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.476 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.476 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.476 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.482 (0x7ffe73df17e0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 06:23:35.482 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.482 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.482 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.482 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:35.482 (0x7ffe73df17e0) Warning: link #g5692 is undefined!
+2020-01-03 06:23:44.576 (0x7ffc7ea577a0) Debug: New PolkitAgentListener  0x556c8f2aa8a0
+2020-01-03 06:23:44.576 (0x7ffc7ea577a0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc7ea577b0) for  0x556c8f2aa8a0
+2020-01-03 06:23:44.651 (0x7ffd72a99b60) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 06:23:44.705 (0x7ffd72a99b60) Debug: WinIdChange 1800008 handle QWidgetWindow(0x55d85a999fb0, name="LXQtPanel panel1Window") QScreen(0x55d85a90c0d0, name="eDP1")
+2020-01-03 06:23:44.715 (0x7ffd72a99b60) Debug: Systray started
+2020-01-03 06:23:44.752 (0x7ffdc3b0e030) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:23:44.785 (0x7ffe2b317630) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 06:23:44.791 (0x7ffe2b317630) Debug: Inhibit got: 26
+2020-01-03 06:23:44.791 (0x7ffe2b317630) Debug: Starting idlenesswatcher
+2020-01-03 06:23:45.025 (0x7ffd72a99b60) Warning:     * Error image is NULL
+2020-01-03 06:23:45.249 (0x7ffd72a99b60) Warning:     * Error image is NULL
+2020-01-03 06:23:45.795 (0x7ffd72a99b60) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:24:14.232 (0x7fff27117a40) Debug: Oooook! Expecting instance of notification, got: 0
+2020-01-03 06:24:17.625 (0x7ffd72a99b60) Warning:     * Error image is NULL
+2020-01-03 06:24:36.184 (0x7ffd72a99b60) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 06:27:37.291 (0x7ffc124ee820) Debug: New PolkitAgentListener  0x55c02463f8a0
+2020-01-03 06:27:37.292 (0x7ffc124ee820) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc124ee830) for  0x55c02463f8a0
+2020-01-03 06:27:37.364 (0x7ffc8436d3f0) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 06:27:37.424 (0x7ffc8436d3f0) Debug: WinIdChange 1600008 handle QWidgetWindow(0x561d96caf5d0, name="LXQtPanel panel1Window") QScreen(0x561d96c22010, name="eDP1")
+2020-01-03 06:27:37.435 (0x7ffc8436d3f0) Debug: Systray started
+2020-01-03 06:27:37.441 (0x7ffc6c9e9720) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:27:37.503 (0x7fffe1c6f730) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 06:27:37.511 (0x7fffe1c6f730) Debug: Inhibit got: 26
+2020-01-03 06:27:37.511 (0x7fffe1c6f730) Debug: Starting idlenesswatcher
+2020-01-03 06:27:37.753 (0x7ffc8436d3f0) Warning:     * Error image is NULL
+2020-01-03 06:27:38.455 (0x7ffc8436d3f0) Warning:     * Error image is NULL
+2020-01-03 06:27:38.516 (0x7ffc8436d3f0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:27:50.002 (0x7ffce5b87600) Debug: Oooook! Expecting instance of notification, got: 0
+2020-01-03 06:28:10.656 (0x7ffc8436d3f0) Warning:     * Error image is NULL
+2020-01-03 06:29:51.998 (0x7ffc8436d3f0) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 06:36:43.937 (0x7ffc8436d3f0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 06:36:43.937 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.937 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.937 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.937 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.937 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.945 (0x7ffc8436d3f0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 06:36:43.945 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.945 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.945 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.945 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.945 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.951 (0x7ffc8436d3f0) Warning: /usr/share/icons/hicolor/scalable/status/xfce4-power-manager-settings.svg:5520: Could not resolve property: #radialGradient4319
+2020-01-03 06:36:43.951 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.951 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.951 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.951 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:43.951 (0x7ffc8436d3f0) Warning: link #g5692 is undefined!
+2020-01-03 06:36:48.259 (0x7ffc8436d3f0) Warning:     * Error image is NULL
+2020-01-03 06:38:01.320 (0x7ffc8436d3f0) Warning:     * Error image is NULL
+2020-01-03 06:38:01.323 (0x7ffc8436d3f0) Warning:     * Error image is NULL
+2020-01-03 06:38:01.325 (0x7ffc8436d3f0) Warning:     * Error image is NULL
+2020-01-03 06:38:07.714 (0x7ffc8436d3f0) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 06:53:23.044 (0x7ffd667d6530) Debug: New PolkitAgentListener  0x5651ff50d2a0
+2020-01-03 06:53:23.044 (0x7ffd667d6530) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd667d6540) for  0x5651ff50d2a0
+2020-01-03 06:53:23.081 (0x7ffc63875490) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 06:53:23.160 (0x7ffc63875490) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55bd02140c00, name="LXQtPanel panel1Window") QScreen(0x55bd01f5d010, name="eDP1")
+2020-01-03 06:53:23.162 (0x7ffe76856af0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:53:23.173 (0x7ffc63875490) Debug: Systray started
+2020-01-03 06:53:23.245 (0x7fff876a9a60) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 06:53:23.251 (0x7fff876a9a60) Debug: Inhibit got: 26
+2020-01-03 06:53:23.251 (0x7fff876a9a60) Debug: Starting idlenesswatcher
+2020-01-03 06:53:23.475 (0x7ffc63875490) Warning:     * Error image is NULL
+2020-01-03 06:53:24.257 (0x7ffc63875490) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:53:56.786 (0x7ffc63875490) Warning:     * Error image is NULL
+2020-01-03 06:54:25.264 (0x7ffc63875490) Warning: Error handler 152 BadDamage (invalid Damage parameter)
+2020-01-03 06:54:31.010 (0x7ffdfe4ac7e0) Debug: New PolkitAgentListener  0x5576534954a0
+2020-01-03 06:54:31.010 (0x7ffdfe4ac7e0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdfe4ac7f0) for  0x5576534954a0
+2020-01-03 06:54:31.085 (0x7ffe23c99390) Debug: XdgDesktopFile "/home/kiruthecrusader/Desktop/termite.desktop" is not valid
+2020-01-03 06:54:31.144 (0x7ffe23c99390) Debug: WinIdChange 1600008 handle QWidgetWindow(0x55f7098037f0, name="LXQtPanel panel1Window") QScreen(0x55f70966d010, name="eDP1")
+2020-01-03 06:54:31.153 (0x7ffe23c99390) Debug: Systray started
+2020-01-03 06:54:31.193 (0x7ffea52106e0) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:54:31.219 (0x7ffc11d478a0) Debug: BatteryChanged discharging: false chargeLevel: 100 actionTime: QTime(Invalid)
+2020-01-03 06:54:31.230 (0x7ffc11d478a0) Debug: Inhibit got: 26
+2020-01-03 06:54:31.230 (0x7ffc11d478a0) Debug: Starting idlenesswatcher
+2020-01-03 06:54:31.464 (0x7ffe23c99390) Warning:     * Error image is NULL
+2020-01-03 06:54:31.469 (0x7ffe23c99390) Warning:     * Error image is NULL
+2020-01-03 06:54:32.244 (0x7ffe23c99390) Warning: libpng warning: iCCP: known incorrect sRGB profile
+2020-01-03 06:55:03.841 (0x7ffe23c99390) Warning:     * Error image is NULL
+2020-01-03 06:57:50.992 (0x7ffe23c99390) Debug: execAction "/usr/share/applications/opera.desktop"
+2020-01-03 11:47:32.836 (0x7ffc11d478a0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-03 11:47:32.838 (0x7ffc11d478a0) Warning: UdevQt: unhandled device action "unbind"
+2020-01-03 11:47:32.864 (0x7ffc11d478a0) Warning: UdevQt: unhandled device action "bind"
+2020-01-03 11:47:32.864 (0x7ffc11d478a0) Warning: UdevQt: unhandled device action "bind"
+2020-01-03 11:47:33.081 (0x7fffd4f1af90) Debug: Oooook! Expecting instance of notification, got: 0
+2020-01-03 11:47:38.134 (0x7ffe23c99390) Warning:     * Error image is NULL
+2020-01-03 11:47:38.136 (0x7ffe23c99390) Warning:     * Error image is NULL
+2020-01-03 11:47:38.144 (0x7ffe23c99390) Warning:     * Error image is NULL
+2020-01-03 11:48:13.343 (0x7ffe23c99390) Debug: execAction "/usr/share/applications/opera.desktop"
